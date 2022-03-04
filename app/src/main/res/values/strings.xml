@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculatorChallenge2</string>
+    <string name="second_number">Segundo Número</string>
+    <string name="first_number">Primeiro Número</string>
+    <string name="result">Resultado</string>
+    <string name="plus_operator">+</string>
+    <string name="minus_operator">-</string>
+    <string name="multiple_operator">X</string>
+    <string name="divide_operator">/</string>
+    <string name="clean_button">apagar</string>
+    <string name="calculate_button">calcular</string>
+    <string name="calculator_text_view">Calculadora</string>
+    <string name="welcome_text">Seja Bem-Vindo!</string>
+</resources>
